@@ -1,0 +1,74 @@
+.desktop-4-child,
+.desktop-4-item {
+  position: absolute;
+  top: 221px;
+  left: 725px;
+  width: 360px;
+  height: 300px;
+  object-fit: cover;
+}
+.desktop-4-item {
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 191px;
+}
+.desktop-4-inner {
+  position: absolute;
+  top: 47px;
+  left: calc(50% - 355px);
+  background-color: var(--color-goldenrod);
+  width: 710px;
+  height: 96px;
+}
+.venues {
+  position: absolute;
+  top: 65px;
+  left: calc(50% - 105px);
+  display: inline-block;
+  width: 321px;
+  height: 61px;
+}
+.desktop-4-child1,
+.desktop-4-child2,
+.desktop-4-child3 {
+  position: absolute;
+  top: 221px;
+  left: 5px;
+  width: 360px;
+  height: 300px;
+  object-fit: cover;
+}
+.desktop-4-child2,
+.desktop-4-child3 {
+  left: 365px;
+}
+.desktop-4-child3 {
+  left: 1080px;
+}
+.from-intimate-weddings {
+  margin: 0;
+}
+.from-intimate-weddings-container {
+  position: absolute;
+  top: 599px;
+  left: 38px;
+}
+.all-rights-are8 {
+  position: absolute;
+  top: 973px;
+  left: calc(50% - 202px);
+  font-size: var(--font-size-11xl-4);
+  font-family: var(--font-inter);
+}
+.desktop-4 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-27xl-7);
+  color: var(--color-black);
+  font-family: var(--font-jacques-francois);
+}
